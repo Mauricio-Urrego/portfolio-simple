@@ -65,7 +65,28 @@ main > .tagline {
 
 .devto svg {
 	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
+	margin-left: 0.675rem;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+
+.upwork {
+  padding: 0 10px 0 10px;
+}
+
+.fa-upwork {
+  margin-bottom: -0.20rem;
+  background-image: url('icons/upwork.svg');
+  height: 2.65rem;
+  width: 2.65rem;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+.popover-body {
+  background-image: url('icons/qrcode.svg');
+  background-repeat: no-repeat;
+  margin: 5px;
+  height: 100px;
+  width: 100px;
 }
